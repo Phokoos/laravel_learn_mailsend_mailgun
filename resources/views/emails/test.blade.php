@@ -10,5 +10,6 @@
 <body>
     <h1>{{$title}}</h1>
     <p>{{$content}}</p>
+    <p>New email</p>
 </body>
 </html>
